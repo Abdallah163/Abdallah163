@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abdallah163
-- 👀 I’m interested in JS
-- 🌱 I’m currently LEARNING JS 
+- 👋 Hi, I’m AbdAllah 
+- 👀 I’m interested in JavaScript 
+- 🌱 I’m currently LEARNING node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
